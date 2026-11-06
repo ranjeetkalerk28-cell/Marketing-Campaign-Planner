@@ -1,0 +1,8 @@
+model\Task.class
+servlet\TaskServlet.class
+dao\TaskDAO.class
+servlet\CalendarServlet.class
+util\DBConnection.class
+model\Campaign.class
+servlet\CampaignServlet.class
+dao\CampaignDAO.class
